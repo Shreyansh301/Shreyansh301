@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyansh </h1>
 <h3 align="center">A passionate Web Developer student from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shreyansh301&label=Profile%20views&color=0e75b6&style=plastic" alt="Shreyansh301" /> </p>
 
 [![](https://visitcount.itsvg.in/api?id=Shreyansh301&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=Shreyansh301&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=Shreyansh301&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-
 
 **ABOUT ME**
 
