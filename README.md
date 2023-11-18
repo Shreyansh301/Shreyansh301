@@ -4,7 +4,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shreyansh301&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# ![about_me](https://github.com/Shreyansh301/Shreyansh301/assets/150443206/3eb1f8d8-c36c-4923-9f2b-2c37f40ba642) About Me:
+# ![about_me copy](https://github.com/Shreyansh301/Shreyansh301/assets/150443206/9595eb35-01b8-4f9e-bf4d-a15ed9212b84) About Me:
 
 _Aspiring Front-End Developer | Research Enthusiast_
 
