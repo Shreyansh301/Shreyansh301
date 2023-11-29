@@ -26,6 +26,6 @@ Hi there! I'm an enthusiastic front-end developer learning and exploring the wor
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh301&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details>
-<summary> Want to know more? </summary> 
+<summary> More? </summary> 
 </details>
 
