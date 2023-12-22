@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shreyansh </h1>
+![Github banner](https://github.com/Shreyansh301/Shreyansh301/assets/150443206/d607aa22-921a-4da3-9c5f-6ed022508972)
+
 <h3 align="center">A passionate Web Developer student from India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Shreyansh301&icon=0&color=0)](https://visitcount.itsvg.in)
