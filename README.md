@@ -26,7 +26,9 @@ Hi there! I'm an enthusiastic front-end developer learning and exploring the wor
 
 ## 📊 GitHub Stats:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh301&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Shreyansh301's Stats](https://github-readme-stats.vercel.app/api?username=Shreyansh301&theme=radical&show_icons=true&hide_border=false&count_private=false)
+
+![Shreyansh301's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreyansh301&theme=radical&hide_border=false)
 
 <details>
 <summary> :trophy: Achievements </summary> 
